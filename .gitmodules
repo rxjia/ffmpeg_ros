@@ -1,0 +1,15 @@
+[submodule "ffmpeg_image_transport"]
+	path = ffmpeg_image_transport
+	url = https://github.com/rxjia/ffmpeg_image_transport.git
+[submodule "ffmpeg_image_transport_msgs"]
+	path = ffmpeg_image_transport_msgs
+	url = https://github.com/rxjia/ffmpeg_image_transport_msgs.git
+[submodule "ffmpeg_image_transport_tools"]
+	path = ffmpeg_image_transport_tools
+	url = https://github.com/rxjia/ffmpeg_image_transport_tools.git
+[submodule "flex_sync"]
+	path = flex_sync
+	url = https://github.com/daniilidis-group/flex_sync.git
+[submodule "rqt_bag_ffmpeg_plugin"]
+	path = rqt_bag_ffmpeg_plugin
+	url = https://github.com/rxjia/rqt_bag_ffmpeg_plugin.git
